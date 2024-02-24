@@ -1,6 +1,17 @@
 table{
     text-align: center;
+    background-color: rgb(130, 237, 237);
 }
 a{
     color: black;
+}
+#hát{
+    font-size:10px;
+    text-align: end;
+}
+img{
+    width: 30px;
+}
+#gomb{
+    text-align: center;
 }
